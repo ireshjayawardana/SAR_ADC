@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      siu856563910
+HostName                       engr-e132-d21.engr.siu.edu
+ProcessIdentifier              14677
+ProcessCreationTime_UTC        1733351998
+ProcessCreationTime_Readable   Wed Dec  4 16:39:58 2024 CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/grad/siu856563910/856563910/ECE531/project/project/Controller_copy/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Dec  4 16:52:40 2024 CST
